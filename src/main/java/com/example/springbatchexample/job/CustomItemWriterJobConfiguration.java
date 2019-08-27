@@ -70,6 +70,6 @@ public class CustomItemWriterJobConfiguration {
                     System.out.println(item);
                 }
             }
-        }
+        };
     }
 }
